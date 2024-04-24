@@ -1,0 +1,14 @@
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\bin\Debug\net8.0\solution_todolist.exe
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\bin\Debug\net8.0\solution_todolist.deps.json
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\bin\Debug\net8.0\solution_todolist.runtimeconfig.json
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\bin\Debug\net8.0\solution_todolist.dll
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\bin\Debug\net8.0\solution_todolist.pdb
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\solution_todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\solution_todolist.AssemblyInfoInputs.cache
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\solution_todolist.AssemblyInfo.cs
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\solution_todolist.csproj.CoreCompileInputs.cache
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\solution_todolist.dll
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\refint\solution_todolist.dll
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\solution_todolist.pdb
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\solution_todolist.genruntimeconfig.cache
+C:\Users\Nekta\source\repos\cSharpfundamentals\ToDoList\solution_todolist\obj\Debug\net8.0\ref\solution_todolist.dll
